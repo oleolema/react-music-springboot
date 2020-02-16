@@ -27,11 +27,12 @@
 
 `params=r81W3nuHMhoUjPS%2F3NviKzBGt%2B3NGi14LS3o4wDN9mSZVZ1iMsX59e7zwqIJT41m%2FxlE4XgR4dH%2BSqZH9gMSjl%2F7vNhQ1%2FC%2BfgRM0pcuYKqx%2Fu8GIfo5MWE8fc0D9mN%2B&encSecKey=6c551b2b3eba941b262d2fd2def0540d14d814ecff890163104f7cf6b7824f309ba779b1b3bab745580bac4a5e08a7ea208aaa0f8a1c59c06d6d472f1324260d948d50780343ba920938d7f8aed5840ef42c9dcfea89a68795a1050c98a4346f8b779a0c456ac1943b73cff156897616f31a4df1407e84256fc81fd49f469d06`
 
+
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a577d2f827e56e498166)
 
 或者
-[对比两种请求](https://gold-space-1114.postman.co/collections/7711325-76eaddc0-33c3-4d5e-b5cd-e78369ec2fe1?version=latest&workspace=407054ea-34d6-47d7-8f10-e245c2c92a3a#a16a4134-f594-4466-9200-609ad04ffb2b)
+[对比两种请求](https://gold-space-1114.postman.co/collections/7711325-fadd987f-45f2-4df2-a420-84dd6d7b89c1?version=latest&workspace=407054ea-34d6-47d7-8f10-e245c2c92a3a)
 
 
-网易云API接口由抓包分析而来，具体api参数加密算法请参考[encode.js]()
+网易云API接口由抓包分析而来，具体api参数加密算法请参考[encode.js](https://github.com/oleolema/react-music-springboot/blob/master/src/main/resources/common/js/encode.js)
 
