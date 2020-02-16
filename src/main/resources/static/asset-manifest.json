@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/neteasemusic/static/js/main.816fae75.chunk.js",
+    "main.js.map": "/neteasemusic/static/js/main.816fae75.chunk.js.map",
+    "runtime-main.js": "/neteasemusic/static/js/runtime-main.0fe37e3c.js",
+    "runtime-main.js.map": "/neteasemusic/static/js/runtime-main.0fe37e3c.js.map",
+    "neteasemusic/static/css/2.b04665b7.chunk.css": "/neteasemusic/static/css/2.b04665b7.chunk.css",
+    "neteasemusic/static/js/2.b3bbc277.chunk.js": "/neteasemusic/static/js/2.b3bbc277.chunk.js",
+    "neteasemusic/static/js/2.b3bbc277.chunk.js.map": "/neteasemusic/static/js/2.b3bbc277.chunk.js.map",
+    "neteasemusic/static/js/3.c6eb8d47.chunk.js": "/neteasemusic/static/js/3.c6eb8d47.chunk.js",
+    "neteasemusic/static/js/3.c6eb8d47.chunk.js.map": "/neteasemusic/static/js/3.c6eb8d47.chunk.js.map",
+    "neteasemusic/static/js/4.70239670.chunk.js": "/neteasemusic/static/js/4.70239670.chunk.js",
+    "neteasemusic/static/js/4.70239670.chunk.js.map": "/neteasemusic/static/js/4.70239670.chunk.js.map",
+    "neteasemusic/static/js/5.56a5a96d.chunk.js": "/neteasemusic/static/js/5.56a5a96d.chunk.js",
+    "neteasemusic/static/js/5.56a5a96d.chunk.js.map": "/neteasemusic/static/js/5.56a5a96d.chunk.js.map",
+    "neteasemusic/static/js/6.10ec5d1d.chunk.js": "/neteasemusic/static/js/6.10ec5d1d.chunk.js",
+    "neteasemusic/static/js/6.10ec5d1d.chunk.js.map": "/neteasemusic/static/js/6.10ec5d1d.chunk.js.map",
+    "neteasemusic/static/js/7.897bf7bc.chunk.js": "/neteasemusic/static/js/7.897bf7bc.chunk.js",
+    "neteasemusic/static/js/7.897bf7bc.chunk.js.map": "/neteasemusic/static/js/7.897bf7bc.chunk.js.map",
+    "index.html": "/index.html",
+    "neteasemusic/static/css/2.b04665b7.chunk.css.map": "/neteasemusic/static/css/2.b04665b7.chunk.css.map",
+    "neteasemusic/static/media/music-icon.woff?2qevqt": "/neteasemusic/static/media/music-icon.2a8a87a7.woff",
+    "neteasemusic/static/media/music-icon.ttf?2qevqt": "/neteasemusic/static/media/music-icon.453725f5.ttf",
+    "neteasemusic/static/media/music-icon.svg?2qevqt": "/neteasemusic/static/media/music-icon.69904fb4.svg",
+    "neteasemusic/static/media/music-icon.eot?2qevqt": "/neteasemusic/static/media/music-icon.72f61f56.eot",
+    "neteasemusic/static/media/slick-theme.css": "/neteasemusic/static/media/slick.f97e3bbf.svg",
+    "precache-manifest.c844acefb577de06daa30abf0a0c6e8f.js": "/precache-manifest.c844acefb577de06daa30abf0a0c6e8f.js",
+    "service-worker.js": "/service-worker.js"
+  },
+  "entrypoints": [
+    "neteasemusic/static/js/runtime-main.0fe37e3c.js",
+    "neteasemusic/static/css/2.b04665b7.chunk.css",
+    "neteasemusic/static/js/2.b3bbc277.chunk.js",
+    "neteasemusic/static/js/main.816fae75.chunk.js"
+  ]
+}
